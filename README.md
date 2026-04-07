@@ -1,4 +1,3 @@
-<img width="1619" height="895" alt="image" src="https://github.com/user-attachments/assets/f75c6576-074f-4d1f-beb4-06753368f540" />
 # 🚀 Prolific Automation – Industrial Training & Education Platform
 
 ## 📌 Overview
@@ -41,7 +40,7 @@ The platform is designed to help students, engineers, and professionals gain pra
 <img width="1619" height="895" alt="image" src="https://github.com/user-attachments/assets/efea5d7d-90bc-4198-994f-087572c5e543" />
 
 
-<img width="1627" height="8548" alt="screencapture-training-prolificautomation-in-2026-04-07-21_48_00" src="https://github.com/user-attachments/assets/b62264b6-01ce-4f6e-bcc5-ed6a546c95e3" />
+<img width="500" height="8548" alt="screencapture-training-prolificautomation-in-2026-04-07-21_48_00" src="https://github.com/user-attachments/assets/b62264b6-01ce-4f6e-bcc5-ed6a546c95e3" />
 
 
 

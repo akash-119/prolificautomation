@@ -16,7 +16,7 @@ The platform is designed to help students, engineers, and professionals gain pra
 ---
 
 ## 📸 Screenshots
-<img width="1627" height="6851" alt="prolificautomation-in-2026-04-07-21_25_43" src="https://github.com/user-attachments/assets/19684dc4-99b5-439c-8e0c-16e1eb6ff279" />
+<img width="2000" height="10000" alt="prolificautomation-in-2026-04-07-21_25_43" src="https://github.com/user-attachments/assets/19684dc4-99b5-439c-8e0c-16e1eb6ff279" />
 
 
 

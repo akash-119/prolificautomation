@@ -26,7 +26,7 @@ The platform is designed to help students, engineers, and professionals gain pra
   
 <img width="1627" height="2277" alt="screencapture-prolificautomation-in-courses-2026-04-07-21_31_02" src="https://github.com/user-attachments/assets/ee782ec9-17c6-478f-a715-654405cd2e63" />
 
-<img width="300" height="3014" alt="screencapture-prolificautomation-in-courses-plc-scada-training-2026-04-07-21_32_07" src="https://github.com/user-attachments/assets/55d86e10-61cd-4c26-ab08-e3034e0af4b3" />
+<img width="2000" height="3014" alt="screencapture-prolificautomation-in-courses-plc-scada-training-2026-04-07-21_32_07" src="https://github.com/user-attachments/assets/55d86e10-61cd-4c26-ab08-e3034e0af4b3" />
 
   
 * Testimonials section

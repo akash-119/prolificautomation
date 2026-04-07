@@ -1,4 +1,4 @@
-
+<img width="1619" height="895" alt="image" src="https://github.com/user-attachments/assets/f75c6576-074f-4d1f-beb4-06753368f540" />
 # 🚀 Prolific Automation – Industrial Training & Education Platform
 
 ## 📌 Overview
@@ -28,11 +28,20 @@ The platform is designed to help students, engineers, and professionals gain pra
 
 <img width="2000" height="3014" alt="screencapture-prolificautomation-in-courses-plc-scada-training-2026-04-07-21_32_07" src="https://github.com/user-attachments/assets/55d86e10-61cd-4c26-ab08-e3034e0af4b3" />
 
-  
-* Testimonials section
-* Mobile UI
 * Contact form
 
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-36-19" src="https://github.com/user-attachments/assets/d5d18e10-dd1a-4033-9481-e377849db9f1" />
+
+
+---
+## 🌍 Live Landing Page
+
+🔗 [[https://prolificautomation.in](https://training.prolificautomation.in/)/]
+
+<img width="1619" height="895" alt="image" src="https://github.com/user-attachments/assets/efea5d7d-90bc-4198-994f-087572c5e543" />
+
+
+<img width="1627" height="8548" alt="screencapture-training-prolificautomation-in-2026-04-07-21_48_00" src="https://github.com/user-attachments/assets/b62264b6-01ce-4f6e-bcc5-ed6a546c95e3" />
 
 
 

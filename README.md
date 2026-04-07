@@ -9,6 +9,26 @@ The platform is designed to help students, engineers, and professionals gain pra
 
 ---
 
+## 🌍 Live Website
+
+🔗 [https://prolificautomation.in/](https://prolificautomation.in/)
+
+---
+
+## 📸 Screenshots
+<img width="1627" height="6851" alt="prolificautomation-in-2026-04-07-21_25_43" src="https://github.com/user-attachments/assets/19684dc4-99b5-439c-8e0c-16e1eb6ff279" />
+
+
+
+* Homepage
+* Course page (PLC / Electrical)
+* Testimonials section
+* Mobile UI
+* Contact form
+
+
+
+
 ## 🎯 Core Features
 
 * 🎓 100+ industry-focused training programs
@@ -141,21 +161,6 @@ The courses are designed to bridge the gap between:
 
 ---
 
-## 🌍 Live Website
-
-🔗 [https://prolificautomation.in/](https://prolificautomation.in/)
-
----
-
-## 📸 Screenshots
-
-⚠️ Don’t skip this (serious mistake if you do):
-
-* Homepage
-* Course page (PLC / Electrical)
-* Testimonials section
-* Mobile UI
-* Contact form
 
 ---
 
